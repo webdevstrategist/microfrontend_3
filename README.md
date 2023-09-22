@@ -1,0 +1,1 @@
+# Vite + Module Federation + Tailwind CSS
